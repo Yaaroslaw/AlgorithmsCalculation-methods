@@ -1,0 +1,18 @@
+﻿Build started 22.02.2017 21:49:42.
+     1>Project "C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Laba_6\Laba_6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Func.cpp Test.cpp
+         Test.cpp
+     1>c:\users\yaroslaw\documents\visual studio 2015\projects\амо\laba_6\laba_6\test.cpp(6): warning C4101: 'xi': unreferenced local variable
+         Func.cpp
+     1>c:\users\yaroslaw\documents\visual studio 2015\projects\амо\laba_6\laba_6\func.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Debug\Laba_6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Debug\Laba_6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Debug\Laba_6.lib" /MACHINE:X86 Debug\Func.obj
+         Debug\Test.obj
+         Laba_6.vcxproj -> C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Debug\Laba_6.exe
+     1>Done Building Project "C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\АМО\Laba_6\Laba_6\Laba_6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.41
